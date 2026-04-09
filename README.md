@@ -11,8 +11,7 @@ I'm a **Computer Scientist & Freelance Software Developer** based in Zambia. I b
 ## 🛠 Tech Stack
 Flutter • Dart • REST APIs • Firebase • SQLite • Git • HTML • CSS • JavaScript • Node.js • Python
 
-## 🌱 Currently
-- Refining my GitHub to showcase **meaningful projects**  
+## 🌱 Currently  
 - Focusing on **freelance work and MVP builds**  
 - Experimenting with **full-stack projects** and mobile prototypes
 
