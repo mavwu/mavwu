@@ -41,4 +41,4 @@ Inventory & sales tracking demo for backend and CRUD logic exploration.
 - Email: [viwaplayz@gmail.com](mailto:viwaplayz@gmail.com)  
 - WhatsApp: [+260 97 2073035](https://wa.me/260972073035)  
 - GitHub: [github.com/mavwu](https://github.com/mavwu)  
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/alfred-mavwu/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfred-mavwu/)
