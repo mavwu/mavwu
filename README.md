@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Alfred (Mavwu)
 
-<!--
-**mavwu/mavwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Scientist & Software Developer passionate about building **mobile apps** and **data-driven solutions**.
 
-Here are some ideas to get you started:
+## 🔭 What I Do
+- 📱 Build mobile applications with **Flutter**
+- 🔗 Integrate APIs and work with **structured datasets**
+- 🧠 Focus on **clean architecture** and **scalable systems**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Flutter • Dart • REST APIs • Git • Firebase • SQL
+
+## 🌱 Currently
+Refining my GitHub to highlight my **most meaningful projects** and showcase my development journey.
+
+## 📫 Let's Connect
+Email: viwaplayz@gmail.com  
+LinkedIn: https://www.linkedin.com/in/alfred-mavwu/
