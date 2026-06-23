@@ -1,43 +1,61 @@
-# Hi there 👋, I'm Alfred (Mavwu)
+# Hey, I'm Alfred Mavwu 👋
 
-I'm a **Computer Scientist & Freelance Software Developer** based in Zambia. I build **websites and mobile apps** that are clean, fast, and practical—helping businesses, students, and organizations solve real problems.
+**Software Developer** — I take real problems and build practical software around them.
+Web platforms, mobile apps, workflow tools, and systems that people can actually use.
 
-## 🔭 What I Do
-- 💻 Build **business websites, portfolios, and admin dashboards**
-- 📱 Develop **Flutter MVPs and utility apps**
-- 🔗 Integrate **REST APIs** and manage **data with SQLite & Firebase**
-- 🛠 Solve real-world problems with **practical, maintainable solutions**
+📍 Zambia &nbsp;|&nbsp; 🎓 BSc Computer Science, Mulungushi University &nbsp;|&nbsp; 💼 Software Developer at [Ride Yanga](https://rideyanga.com)
 
-## 🛠 Tech Stack
-Flutter • Dart • REST APIs • Firebase • SQLite • Git • HTML • CSS • JavaScript • Node.js • Python
+---
 
-## 🌱 Currently  
-- Focusing on **freelance work and MVP builds**  
-- Experimenting with **full-stack projects** and mobile prototypes
+## 🧠 What I'm About
+
+I build software that solves clear, real-world problems — not demos, not just experiments.
+My focus is on practical systems for businesses, schools, and teams in Zambia and beyond.
+
+- 🏫 Building **ClassReportZM** — school report card and marks automation for Zambian schools
+- 🚖 Supporting technical operations and development at **Ride Yanga** (ride-hailing + tourism startup)
+- 🌱 Growing a freelance practice focused on web, mobile, and business workflow tools
+
+---
+
+## 🛠️ My Stack
+
+**Frontend & UI**
+`HTML` `CSS` `JavaScript` `Responsive Design`
+
+**Mobile**
+`Flutter` `Dart` `Android`
+
+**Backend & Data**
+`Node.js` `Express.js` `SQLite` `REST APIs` `Firebase`
+
+**Languages**
+`JavaScript` `Dart` `Python` `Java`
+
+**Tools**
+`Git` `Vercel` `Postman` `VS Code`
+
+---
 
 ## 🚀 Featured Projects
-### Climate Smart Agriculture App
-**Tech:** Flutter • Mobile • Weather  
-A mobile app helping farmers access weather insights and climate-smart guidance.  
-[Live Demo](https://csa-website-nine.vercel.app/)
 
-### EZ Statement ZM
-**Tech:** Flutter • Dart • Education  
-Students & parents access Examination Council statements with ease.  
-[Live Demo](https://ezstatementszm.vercel.app/)
+| Project | What it does | Stack |
+|---|---|---|
+| 🏫 **ClassReportZM** | School marks & report card automation for Zambian schools | Node.js, SQLite |
+| ✍️ **Blogging Platform** | Full-stack publishing platform with auth, sessions, CRUD | Node.js, Express, SQLite |
+| 📦 **StockFlow** | Real-time inventory & cash flow management | Flutter, Firebase |
+| 🌾 **Climate Smart Agriculture App** | Weather + farming guidance for smallholder farmers | Flutter, OpenWeather API |
+| 🎓 **EZ Statement ZM** | Quick ECZ exam statement access for students | Flutter, Dart |
+| 🔍 **Public Profile Analyzer** | Username availability checker across platforms | Python, Flask |
 
-### Blogging Platform
-**Tech:** Node.js • Express • SQLite • Full Stack  
-A simple CMS platform built to explore content management and routing.  
-[Live Demo](https://mavwublog.vercel.app)
+---
 
-### Retail Management System
-**Tech:** Node.js • SQLite  
-Inventory & sales tracking demo for backend and CRUD logic exploration.  
-[View Project](https://retail-management-system-rhf7.onrender.com)
+## 📬 Let's Connect
 
-## 📫 Contact Me
-- Email: [viwaplayz@gmail.com](mailto:viwaplayz@gmail.com)  
-- WhatsApp: [+260 97 2073035](https://wa.me/260972073035)  
-- GitHub: [github.com/mavwu](https://github.com/mavwu)  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alfred-mavwu/)
+If you're a recruiter, client, or developer who wants to collaborate — reach out.
+
+🌐 [mavwu.github.io](https://mavwu.github.io) &nbsp;|&nbsp; 💬 [WhatsApp](https://wa.me/260972073035) &nbsp;|&nbsp; 📧 alfredmavwu@gmail.com
+
+---
+
+*Building practical software, one real problem at a time.*
