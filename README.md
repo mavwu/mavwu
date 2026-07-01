@@ -3,7 +3,7 @@
 **Software Developer** — I take real problems and build practical software around them.
 Web platforms, mobile apps, workflow tools, and systems that people can actually use.
 
-📍 Zambia &nbsp;|&nbsp; 🎓 BSc Computer Science, Mulungushi University &nbsp;|&nbsp; 💼 Software Developer at [Ride Yanga](https://rideyanga.com)
+📍 Zambia &nbsp;|&nbsp; 🎓 BSc Computer Science, Mulungushi University &nbsp;|&nbsp; 💼 Software Developer at [Ride Yanga]
 
 ---
 
@@ -57,7 +57,7 @@ My focus is on practical systems for businesses, schools, and teams in Zambia an
 
 If you're a recruiter, client, or developer who wants to collaborate — reach out.
 
-🌐 [mavwu.github.io](https://mavwu.github.io) &nbsp;|&nbsp; 💬 [WhatsApp](https://wa.me/260972073035) &nbsp;|&nbsp; 📧 alfredmavwu@gmail.com
+🌐 [www.mavwu.com](https://www.mavwu.com) &nbsp;|&nbsp; 💬 [WhatsApp](https://wa.me/260972073035) &nbsp;|&nbsp; 📧 alfredmavwu@gmail.com
 
 ---
 
